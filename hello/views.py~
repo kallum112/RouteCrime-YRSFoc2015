@@ -12,7 +12,7 @@ from .models import Greeting
 def index(request):
     r = requests.get('http://httpbin.org/status/418')
     
-    return HttpResponse('<h1>' + "Welcome To RouteCode Beta" + '</h1>' )
+    return HttpResponse('<h1>' + "Welcome To RouteCode Beta!" + '</h1>' )
     return HttpResponse('<p>' + 'Enter Postcode' + '</p>')
     return render(request, 'index.html')
 
