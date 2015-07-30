@@ -11,8 +11,8 @@ from .models import Greeting
 # Create your views here.
 def index(request):
     r = requests.get('http://httpbin.org/status/418')
-    return HttpResponse('<h1>' + "Welcome To RouteCode Beta!" + '</h1>' )
-    return HttpResponse('<h3>' + 'Enter Postcode' + '</h3>')
+    #return HttpResponse('<h1>' + "Welcome To RouteCode Beta!" + '</h1>' )
+    #return HttpResponse('<h3>' + 'Enter Postcode' + '</h3>')
     return render(request, 'index.html')
 
 
