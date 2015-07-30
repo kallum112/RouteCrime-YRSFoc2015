@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3745"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="drawing 2.svg">
+  <defs
+     id="defs3747" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47158032"
+     inkscape:cx="-61.215947"
+     inkscape:cy="520"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3750">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:#0000ff;fill-opacity:0.94082839"
+       id="path3753"
+       sodipodi:sides="5"
+       sodipodi:cx="128.57143"
+       sodipodi:cy="343.79077"
+       sodipodi:r1="576.10938"
+       sodipodi:r2="288.05469"
+       sodipodi:arg1="0.59488007"
+       sodipodi:arg2="1.2231986"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 605.71426,666.6479 226.69443,614.61798 -31.038702,897.34892 -98.678883,520.8015 -447.2159,363.05139 -109.99999,182.36221 -67.67458,-197.86365 208.37649,67.011699 583.07205,-10.230695 416.46509,334.16046 Z"
+       inkscape:transform-center-x="-2.0810407"
+       inkscape:transform-center-y="-33.670294"
+       transform="matrix(0.63497922,0.21324669,-0.24249145,0.71780511,374.30778,223.2314)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#00ffff;fill-opacity:0.94082839"
+       id="path3784"
+       sodipodi:sides="5"
+       sodipodi:cx="394.41849"
+       sodipodi:cy="333.50269"
+       sodipodi:r1="269.34064"
+       sodipodi:r2="134.67032"
+       sodipodi:arg1="0.86900172"
+       sodipodi:arg2="1.4973202"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 568.3019,539.19405 404.30464,467.80964 252.52731,562.43777 269.73997,384.40811 132.8415,269.30099 307.47677,230.65701 374.6462,64.88877 465.36407,219.03514 643.77553,231.69185 525.20698,365.60353 Z"
+       inkscape:transform-center-x="5.438876"
+       inkscape:transform-center-y="-31.674866"
+       transform="matrix(1.2445682,0.0178046,-0.02608708,1.5240206,-83.266389,-34.614658)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3786"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.371469,0,0,6.4640363,-108.10547,-2233.1001)"><flowRegion
+         id="flowRegion3788"><rect
+           id="rect3790"
+           width="339.28473"
+           height="199.32977"
+           x="241.74037"
+           y="386.51593" /></flowRegion><flowPara
+         id="flowPara3792"><flowSpan
+           style="-inkscape-font-specification:Broadway;font-family:Broadway;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="flowSpan3794"> route crime</flowSpan></flowPara></flowRoot>  </g>
+</svg>
