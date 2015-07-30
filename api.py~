@@ -21,7 +21,7 @@ papi = PoliceAPI()
 locate = papi.locate_neighbourhood(UserLat, UserLong) 
 print "Police Data"
 print locate
-print locate.force
+print locate.force[9:]
 #OSM = OsmApi()
 #print "       "
 #print "       "

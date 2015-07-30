@@ -1,0 +1,12 @@
+dj-database-url==0.3.0
+Django==1.8.1
+django-postgrespool==0.3.0
+gunicorn==19.3.0
+psycopg2==2.6
+SQLAlchemy==1.0.4
+whitenoise==1.0.6
+requests==2.3.0
+geolocation-python==0.2.0
+police-api-client==1.2.2
+postcodes==0.1.0
+
