@@ -3,11 +3,12 @@
 import requests
 import responses
 import cgi
+from postcodes import PostCoder
 from geolocation.google_maps import GoogleMaps
 g_m = GoogleMaps(api_key='AIzaSyAGwOOqFQPqt6xyG3UPVkh9dXGeNN4_kpg')
 #gmaps = googlemaps.Client(key='AIzaSyAGwOOqFQPqt6xyG3UPVkh9dXGeNN4_kpg')
 #from osmapi import OsmApi
-from postcodes import PostCoder
+
 pc = PostCoder()
 #Userpc = raw_input("Enter Postcode")
 print "Content-Type: text/html"
